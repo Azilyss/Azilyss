@@ -4,9 +4,11 @@
 - a KTH/Centrale Lille recent graduate in ML :woman_student:
 - an AI enthousiast :computer:
 - learning about RL :space_invader:
-- and currently open to work <a href="https://www.linkedin.com/in/manon-deprette-516773150/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+- and currently working @Kooping
 
 <!--
+<a href="https://www.linkedin.com/in/manon-deprette-516773150/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
 **Azilyss/Azilyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
